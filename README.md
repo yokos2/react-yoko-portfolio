@@ -1,5 +1,4 @@
 # Waku
-
 ⛩️ The minimal React framework
 
 visit [waku.gg](https://waku.gg) or `npm create waku@latest`
